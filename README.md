@@ -1,2 +1,73 @@
-# articles-on-MDC
-The paper list on multi-dimensional classification
+# The paper list on multi-dimensional classification
+Multi-dimensional classification (MDC) assumes a number of class spaces to characterize the object’s semantics from different dimensions. Here, an MDC example is associated with multiple class variables with each of them specifying its class membership w.r.t. one specific class space. On this page, we provide a categorized list of papers about MDC. Articles are categorized primarily based on their titles and technical details. If your article is missing or misclassified, please contact us for correction. 
+
+**Category**: Bayesian MDC; Classic MDC; Deep MDC; Evolutionary MDC; Semi-Supervised MDC; Extension; Application 
+
+ 1. \[*Application*\] Thanaruk Theeramunkong, Verayuth Lertnattee: Multi-Dimensional Text Classification. COLING 2002
+ 2. \[*Application*\] Verayuth Lertnattee, Thanaruk Theeramunkong: Multidimensional text classification for drug information. IEEE Trans. Inf. Technol. Biomed. 8(3): 306-312 (2004)
+ 3. \[*Bayesian MDC*\] Linda C. van der Gaag, Peter R. de Waal: Multi-dimensional Bayesian Network Classifiers. Probabilistic Graphical Models 2006: 107-114
+ 4. \[*Bayesian MDC*\] Peter R. de Waal, Linda C. van der Gaag:Inference and Learning in Multi-dimensional Bayesian Network Classifiers. ECSQARU 2007: 501-511
+ 5. \[*Application*\] Hagit Shatkay, Fengxia Pan, Andrey Rzhetsky, W. John Wilbur: Multi-dimensional classification of biomedical text: Toward automated, practical provision of high-utility text to diverse users. Bioinform. 24(18): 2086-2093 (2008)
+ 6. \[*Bayesian MDC*\] Juan Diego Rodríguez, José Antonio Lozano: Multi-Objective Learning of Multi-Dimensional Bayesian Classifiers. HIS 2008: 501-506
+ 7. \[*Bayesian MDC*\] Hanen Borchani, Concha Bielza, Pedro Larrañaga: Learning CB-decomposable Multi-dimensional Bayesian Network Classifiers. Probabilistic Graphical Models 2010: 25-33
+ 8. \[*Application*\] Lavanya Ramakrishnan, Beth Plale: A multi-dimensional classification model for scientific workflow characteristics. WANDS 2010: 1-12
+ 9. \[*Bayesian MDC*\] Concha Bielza, Guangdi Li, Pedro Larrañaga: Multi-dimensional classification with Bayesian networks. Int. J. Approx. Reason. 52(6): 705-727 (2011)
+ 10. \[*Bayesian MDC*\] Julio Cesar Zaragoza, Luis Enrique Sucar, Eduardo F. Morales: A Two-Step Method to Learn Multidimensional Bayesian Network Classifiers Based on Mutual Information Measures. FLAIRS 2011
+ 11. \[*Bayesian MDC*\] Julio H. Zaragoza, Luis Enrique Sucar, Eduardo F. Morales, Concha Bielza, Pedro Larrañaga: Bayesian Chain Classifiers for Multidimensional Classification. IJCAI 2011: 2192-2197
+ 12. \[*Application*\] Hanen Borchani, Concha Bielza, Pablo Martínez-Martín, Pedro Larrañaga: Markov blanket-based approach for learning multi-dimensional Bayesian network classifiers: An application to predict the European Quality of Life-5 Dimensions (EQ-5D) from the 39-item Parkinson's Disease Questionnaire (PDQ-39). J. Biomed. Informatics 45(6): 1175-1184 (2012)
+ 13. \[*Application*\] Jonathan Ortigosa-Hernández, Juan Diego Rodríguez, Leandro Alzate, Manuel Lucania, Iñaki Inza, José Antonio Lozano: Approaching Sentiment Analysis by using semi-supervised learning of multi-dimensional classifiers. Neurocomputing 92: 98-115 (2012)
+ 14. \[*Application*\] Hanen Borchani, Concha Bielza, Carlos Toro, Pedro Larrañaga: Predicting human immunodeficiency virus inhibitors using multi-dimensional Bayesian network classifiers. Artif. Intell. Medicine 57(3): 219-229 (2013)
+ 15. \[*Bayesian MDC*\] Iyad Batal, Charmgil Hong, Milos Hauskrecht: An efficient probabilistic framework for multi-dimensional classification. CIKM 2013: 2417-2422
+ 16. \[*Application*\] Alfiya Rafisovna Masalimova, Lidiya Leonidovna Sabirova: Multi-dimensional classification of types and forms of corporate education. American Journal of Applied Sciences 11(7): 1054-1058 (2014)
+ 17. \[*Application*\] Hanen Borchani, Concha Bielza, Pablo Martínez-Martín, Pedro Larrañaga: Predicting the EQ-5D from the Parkinson's disease questionnaire PDQ-8 using multi-dimensional Bayesian network classifiers. Biomedical Engineering: Applications, Basis and Communications 26(1): 1450015 (2014)
+ 18. \[*Application*\] Bojan Mihaljevic, Concha Bielza, Ruth Benavides-Piccione, Javier DeFelipe, Pedro Larrañaga: Multi-dimensional classification of GABAergic interneurons with Bayesian network-modeled label uncertainty. Frontiers Comput. Neurosci. 8: 150 (2014)
+ 19. \[*Classic MDC*\] Jesse Read, Concha Bielza, Pedro Larrañaga: Multi-Dimensional Classification with Super-Classes. IEEE Trans. Knowl. Data Eng. 26(7): 1720-1733 (2014)
+ 20. \[*Classic MDC*\] Jesse Read, Luca Martino, David Luengo: Efficient monte carlo methods for multi-dimensional learning with classifier chains. Pattern Recognit. 47(3): 1535-1546 (2014)
+ 21. \[*Extension*\] Jesse Read, Luca Martino, Pablo M. Olmos, David Luengo: Scalable multi-output label prediction: From classifier chains to classifier trellises. Pattern Recognit. 48(6): 2096-2109 (2015)
+ 22. \[*Bayesian MDC*\] Janneke H. Bolt, Linda C. van der Gaag: Balanced Tuning of Multi-dimensional Bayesian Network Classifiers. ECSQARU 2015: 210-220
+ 23. \[*Application*\] Pablo Fernandez-Gonzalez, Pedro Larrañaga, Concha Bielza: Multidimensional classifiers for neuroanatomical data. ICML workshop, 2015
+ 24. \[*Bayesian MDC*\] Mingmin Zhu, Sanyang Liu, Jiewei Jiang: A hybrid method for learning multi-dimensional Bayesian network classifiers based on an optimization model. Appl. Intell. 44(1): 123-148 (2016)
+ 25. \[*Application*\] Hanen Borchani, Pedro Larrañaga, João Gama, Concha Bielza: Mining multi-dimensional concept-drifting data streams using Bayesian network classifiers. Intell. Data Anal. 20(2): 257-280 (2016)
+ 26. \[*Bayesian MDC*\] Jacinto Arias, José A. Gámez, Thomas D. Nielsen, José M. Puerta: A scalable pairwise class interaction framework for multidimensional classification. Int. J. Approx. Reason. 68: 194-210 (2016)
+ 27. \[*Bayesian MDC*\] Marco Benjumeda, Concha Bielza, Pedro Larrañaga: Learning Tractable Multidimensional Bayesian Network Classifiers. Probabilistic Graphical Models 2016: 13-24
+ 28. \[*Bayesian MDC*\] Janneke H. Bolt, Linda C. van der Gaag: Balanced sensitivity functions for tuning multi-dimensional Bayesian network classifiers. Int. J. Approx. Reason. 80: 361-376 (2017)
+ 29. \[*Bayesian MDC*\] Marco Benjumeda, Concha Bielza, Pedro Larrañaga: Tractability of most probable explanations in multidimensional Bayesian network classifiers. Int. J. Approx. Reason. 93: 74-87 (2018)
+ 30. \[*Classic MDC*\] Zhongchen Ma, Songcan Chen: Multi-dimensional classification via a metric approach. Neurocomputing 275: 1121-1131 (2018)
+ 31. \[*Bayesian MDC*\] Santiago Gil-Begue, Pedro Larrañaga, Concha Bielza: Multi-dimensional Bayesian Network Classifier Trees. IDEAL (1) 2018: 354-363
+ 32. \[*Application*\] Abu Hena Al Muktadir, Takaya Miyazawa, Pedro Martinez-Julia, Hiroaki Harai, Ved P. Kafle: Multi-Target Classification Based Automatic Virtual Resource Allocation Scheme. IEICE Trans. Inf. Syst. 102-D(5): 898-909 (2019)
+ 33. \[*Classic MDC*\] Bin-Bin Jia, Min-Ling Zhang: Multi-Dimensional Classification via kNN Feature Augmentation. AAAI 2019: 3975-3982
+ 34. \[*Classic MDC*\] Bin-Bin Jia, Min-Ling Zhang: Multi-dimensional classification via kNN feature augmentation. Pattern Recognit. 106: 107423 (2020)
+ 35. \[*Classic MDC*\] Bin-Bin Jia, Min-Ling Zhang: Multi-dimensional classification via stacked dependency exploitation. Sci. China Inf. Sci. 63(12) (2020)
+ 36. \[*Classic MDC*\] Bin-Bin Jia, Min-Ling Zhang: Maximum Margin Multi-Dimensional Classification. AAAI 2020: 4312-4319
+ 37. \[*Deep MDC*\] Haobo Wang, Chen Chen, Weiwei Liu, Ke Chen, Tianlei Hu, Gang Chen: Incorporating Label Embedding and Feature Augmentation for Multi-Dimensional Classification. AAAI 2020: 6178-6185
+ 38. \[*Application*\] Emily Dinan, Angela Fan, Ledell Wu, Jason Weston, Douwe Kiela, Adina Williams: Multi-Dimensional Gender Bias Classification. EMNLP (1) 2020: 314-331
+ 39. \[*Classic MDC*\] Bin-Bin Jia, Min-Ling Zhang: MD-KNN: An Instance-based Approach for Multi-Dimensional Classification. ICPR 2020: 126-133
+ 40. \[*Extension*\] Haobo Wang, Weiwei Liu, Yang Zhao, Tianlei Hu, Ke Chen, Gang Chen: Learning From Multi-Dimensional Partial Labels. IJCAI 2020: 2943-2949
+ 41. \[*Review*\] Santiago Gil-Begue, Concha Bielza, Pedro Larrañaga: Multi-dimensional Bayesian network classifiers: A survey. Artif. Intell. Rev. 54(1): 519-559 (2021)
+ 42. \[*Application*\] Surendra P. Verma, Oscar Alejandro Uscanga-Junco, Lorena Díaz-González: A statistically coherent robust multidimensional classification scheme for water. Science of the Total Environment 750: 141704 (2021)
+ 43. \[*Classic MDC*\] Bin-Bin Jia, Min-Ling Zhang: Multi-Dimensional Classification via Sparse Label Encoding. ICML 2021: 4917-4926 
+ 44. \[*Deep MDC*\] Brendon Gouveia Cambuí, Rafael Gomes Mantovani, Ricardo Cerri: Exploring Autoencoders for Feature Extraction in Multi-Target Classification. IJCNN 2021: 1-8
+ 45. \[*Classic MDC*\] Bin-Bin Jia, Min-Ling Zhang: Decomposition-Based Classifier Chains for Multi-Dimensional Classification. IEEE Trans. Artif. Intell. 3(2): 176-191 (2022)
+ 46. \[*Classic MDC*\] Bin-Bin Jia, Min-Ling Zhang: Maximum Margin Multi-Dimensional Classification. IEEE Trans. Neural Networks Learn. Syst. 33(12): 7185-7198 (2022)
+ 47. \[*Classic MDC*\] Bin-Bin Jia, Min-Ling Zhang: Multi-dimensional Classification via Selective Feature Augmentation. Mach. Intell. Res. 19(1): 38-51 (2022)
+ 48. \[*Extension*\] Dimitrios Iliadis, Bernard De Baets, Willem Waegeman: Multi-target prediction for dummies using two-branch neural networks. Mach. Learn. 111(2): 651-684 (2022)
+ 49. \[*Deep MDC*\] Wenbo Zhang, Yunhao Gou, Yuepeng Jiang, Yu Zhang: Adversarial VAE with Normalizing Flows for Multi-Dimensional Classification. PRCV (1) 2022: 205-219
+ 50. \[*Extension*\] Pelin Yildirim Taser: An Ordinal Multi-Dimensional Classification (OMDC) for Predictive Maintenance. Comput. Syst. Sci. Eng. 44(2): 1499-1516 (2023)
+ 51. \[*Deep MDC*\] Ahmed Abdelfattah Saleh, Li Weigang: Deep self-organizing cube: A novel multi-dimensional classifier for multiple output learning. Expert Syst. Appl. 230: 120627 (2023)
+ 52. \[*Classic MDC*\] Bin-Bin Jia, Min-Ling Zhang: Multi-Dimensional Classification via Decomposed Label Encoding. IEEE Trans. Knowl. Data Eng. 35(2): 1844-1856 (2023)
+ 53. \[*Application*\] Juan C. Alfaro, Juan A. Aledo, José A. Gámez: Multi-dimensional Bayesian network classifiers for partial label ranking. Int. J. Approx. Reason. 160: 108950 (2023)
+ 54. \[*Application*\] Ronav Jaiswal, Nilesh Jaiswal: Solving multi-dimensional image classification and object detection problems using clustering and a stylize-classify method. International Research Journal of Modernization in Engineering Technology and Science 5(10) (2023)
+ 55. \[*Extension*\] Bin-Bin Jia, Min-Ling Zhang: Multi-dimensional multi-label classification: Towards encompassing heterogeneous label spaces and multi-label annotations. Pattern Recognit. 138: 109357 (2023)
+ 56. \[*Semi-Supervised MDC*\] Zelin Xu, Peipei Li: Decomposition and Combination-based Classifier Chains for Semi-Supervised Multi-Dimensional Classification. ICKG 2023: 184-191
+ 57. \[*Semi-Supervised MDC*\] Teng Huang, Bin-Bin Jia, Min-Ling Zhang: Progressive Label Propagation for Semi-Supervised Multi-Dimensional Classification. IJCAI 2023: 3821-3829
+ 58. \[*Application*\] Xiaoyan Gongye, Chongxu Hu, Xiaohu Zhang, Shuang Liu: Multi-dimensional Semantic-based Text Classification Model. IJCNN 2023: 1-7
+ 59. \[*Bayesian MDC*\] Vu-Linh Nguyen, Yang Yang, Cassio de Campos: Probabilistic Multi-Dimensional Classification. UAI 2023: 1522-1533
+ 60. \[*Classic MDC*\] Xinyuan Liu, Jihua Zhu, Zhiqiang Tian, Zhongyu Li: Multi-dimensional classification via class space fusion and comprehensive label correlations. Inf. Fusion 111: 102521 (2024)
+ 61. \[*Classic MDC*\] Jun Tang, Wenhui Chen, Ke Wang, Yan Zhang, Dong Liang: Probability-based label enhancement for multi-dimensional classification. Inf. Sci. 653: 119790 (2024)
+ 62. \[*Review*\] Bin-Bin Jia, Min-Ling Zhang: Multi-dimensional classification: paradigm, algorithms and beyond. Vicinagearth 1(1): 3 (2024)
+ 63. \[*Classic MDC*\] Zan Zhang, Jialin Zhou: Multi-dimensional Classification via Global and Local Label Correlation. ADMA (2) 2024: 97-111
+ 64. \[*Evolutionary MDC*\] Erchao Li, Xiaoqian Dai, Bin-Bin Jia: Multi-Dimensional Classification via NSGA-III Algorithm and Sparse Label Encoding. EITCE 2024: 120-128
+ 65. \[*Deep MDC*\] Teng Huang, Bin-Bin Jia, Min-Ling Zhang: Deep Multi-Dimensional Classification with Pairwise Dimension-Specific Features. IJCAI 2024: 4183-4191
+ 66. \[*Deep MDC*\] Yi Shi, Han-Jia Ye, Dongliang Man, Xiaoxu Han, De-Chuan Zhan, Yuan Jiang: Revisiting multi-dimensional classification from a dimension-wise perspective. Frontiers Comput. Sci. 19(1): 191304 (2025)
+ 67. \[*Evolutionary MDC*\] Yu-Yang Zhang, Bin-Bin Jia, Min-Ling Zhang: Evolutionary Classifier Chain for Multi-Dimensional Classification. AAAI 2025: 22641-22649
+
