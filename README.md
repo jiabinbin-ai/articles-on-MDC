@@ -62,7 +62,7 @@ Multi-dimensional classification (MDC) assumes a number of class spaces to chara
  57. \[*Semi-Supervised MDC*\] Teng Huang, Bin-Bin Jia, Min-Ling Zhang: Progressive Label Propagation for Semi-Supervised Multi-Dimensional Classification. IJCAI 2023: 3821-3829
  58. \[*Application*\] Xiaoyan Gongye, Chongxu Hu, Xiaohu Zhang, Shuang Liu: Multi-dimensional Semantic-based Text Classification Model. IJCNN 2023: 1-7
  59. \[*Bayesian MDC*\] Vu-Linh Nguyen, Yang Yang, Cassio de Campos: Probabilistic Multi-Dimensional Classification. UAI 2023: 1522-1533
- 60. \[*Classic MDC*\] Xinyuan Liu, Jihua Zhu, Zhiqiang Tian, Zhongyu Li: Multi-dimensional classification via class space fusion and comprehensive label correlations. Inf. Fusion 111: 102521 (2024)
+ 60. \[*Classic MDC*\] Xinyuan Liu, Jihua Zhu, Zhiqiang Tian, Zhongyu Li: Multi-dimensional classification via class space fusion and comprehensive label correlations. Inf. Fusion 111: 102521 (2024) [Matlab code](https://github.com/LXY199611/MDC4SF)
  61. \[*Classic MDC*\] Jun Tang, Wenhui Chen, Ke Wang, Yan Zhang, Dong Liang: Probability-based label enhancement for multi-dimensional classification. Inf. Sci. 653: 119790 (2024)
  62. \[*Review*\] Bin-Bin Jia, Min-Ling Zhang: Multi-dimensional classification: paradigm, algorithms and beyond. Vicinagearth 1(1): 3 (2024)
  63. \[*Classic MDC*\] Zan Zhang, Jialin Zhou: Multi-dimensional Classification via Global and Local Label Correlation. ADMA (2) 2024: 97-111
