@@ -1,7 +1,7 @@
 # The paper list on multi-dimensional classification
 Multi-dimensional classification (MDC) assumes a number of class spaces to characterize the object’s semantics from different dimensions. Here, an MDC example is associated with multiple class variables with each of them specifying its class membership w.r.t. one specific class space. On this page, we provide a categorized list of papers about MDC. Articles are categorized primarily based on their titles and technical details. If your article is missing or misclassified, please contact us for correction. 
 
-**Category**: Bayesian MDC; Classic MDC; Deep MDC; Evolutionary MDC; Semi-Supervised MDC; Extension; Application 
+**Category**: Bayesian MDC; Classic MDC; Deep MDC; Evolutionary MDC; Semi-Supervised MDC; Extension; Application
 
 **NOTE**: We also provide the personal homepages that contain publicly available code packages.
 
@@ -43,7 +43,7 @@ Multi-dimensional classification (MDC) assumes a number of class spaces to chara
  36. \[*Classic MDC*\] [Bin-Bin Jia](https://jiabinbin-ai.github.io/), [Min-Ling Zhang](http://palm.seu.edu.cn/zhangml/): Maximum Margin Multi-Dimensional Classification. AAAI 2020: 4312-4319 [Matlab code](https://jiabinbin-ai.github.io/files/M3MDC.rar)
  37. \[*Deep MDC*\] Haobo Wang, Chen Chen, Weiwei Liu, Ke Chen, Tianlei Hu, Gang Chen: Incorporating Label Embedding and Feature Augmentation for Multi-Dimensional Classification. AAAI 2020: 6178-6185
  38. \[*Application*\] Emily Dinan, Angela Fan, Ledell Wu, Jason Weston, Douwe Kiela, Adina Williams: Multi-Dimensional Gender Bias Classification. EMNLP (1) 2020: 314-331
- 39. \[*Classic MDC*\] Bin-Bin Jia, Min-Ling Zhang: MD-KNN: An Instance-based Approach for Multi-Dimensional Classification. ICPR 2020: 126-133 [Matlab code](https://jiabinbin-ai.github.io/files/MD-kNN.zip)
+ 39. \[*Classic MDC*\] [Bin-Bin Jia](https://jiabinbin-ai.github.io/), [Min-Ling Zhang](http://palm.seu.edu.cn/zhangml/): MD-KNN: An Instance-based Approach for Multi-Dimensional Classification. ICPR 2020: 126-133 [Matlab code](https://jiabinbin-ai.github.io/files/MD-kNN.zip)
  40. \[*Extension*\] Haobo Wang, [Weiwei Liu](https://sites.google.com/site/weiweiliuhomepage/), Yang Zhao, Tianlei Hu, Ke Chen, Gang Chen: Learning From Multi-Dimensional Partial Labels. IJCAI 2020: 2943-2949 [Python code](https://drive.google.com/file/d/1n5ny0uI_cWa6blH_oHLkZcwIWSS-TVB4/view?usp=sharing)
  41. \[*Review*\] Santiago Gil-Begue, Concha Bielza, Pedro Larrañaga: Multi-dimensional Bayesian network classifiers: A survey. Artif. Intell. Rev. 54(1): 519-559 (2021)
  42. \[*Application*\] Surendra P. Verma, Oscar Alejandro Uscanga-Junco, Lorena Díaz-González: A statistically coherent robust multidimensional classification scheme for water. Science of the Total Environment 750: 141704 (2021)
@@ -64,7 +64,7 @@ Multi-dimensional classification (MDC) assumes a number of class spaces to chara
  57. \[*Semi-Supervised MDC*\] [Teng Huang](https://tengingit.github.io/), [Bin-Bin Jia](https://jiabinbin-ai.github.io/), [Min-Ling Zhang](http://palm.seu.edu.cn/zhangml/): Progressive Label Propagation for Semi-Supervised Multi-Dimensional Classification. IJCAI 2023: 3821-3829 [Python code](https://github.com/tengingit/PLAP-IJCAI-23)
  58. \[*Application*\] Xiaoyan Gongye, Chongxu Hu, Xiaohu Zhang, Shuang Liu: Multi-dimensional Semantic-based Text Classification Model. IJCNN 2023: 1-7
  59. \[*Bayesian MDC*\] Vu-Linh Nguyen, [Yang Yang](https://yangyang-pro.github.io/), Cassio de Campos: Probabilistic Multi-Dimensional Classification. UAI 2023: 1522-1533 [Python code](https://github.com/yangyang-pro/probabilistic-mdc)
- 60. \[*Classic MDC*\] Xinyuan Liu, Jihua Zhu, Zhiqiang Tian, Zhongyu Li: Multi-dimensional classification via class space fusion and comprehensive label correlations. Inf. Fusion 111: 102521 (2024) [Matlab code](https://github.com/LXY199611/MDC4SF)
+ 60. \[*Classic MDC*\] [Xinyuan Liu](https://github.com/LXY199611), Jihua Zhu, Zhiqiang Tian, Zhongyu Li: Multi-dimensional classification via class space fusion and comprehensive label correlations. Inf. Fusion 111: 102521 (2024) [Matlab code](https://github.com/LXY199611/MDC4SF)
  61. \[*Classic MDC*\] Jun Tang, Wenhui Chen, Ke Wang, Yan Zhang, Dong Liang: Probability-based label enhancement for multi-dimensional classification. Inf. Sci. 653: 119790 (2024)
  62. \[*Review*\] Bin-Bin Jia, Min-Ling Zhang: Multi-dimensional classification: paradigm, algorithms and beyond. Vicinagearth 1(1): 3 (2024)
  63. \[*Classic MDC*\] Zan Zhang, Jialin Zhou: Multi-dimensional Classification via Global and Local Label Correlation. ADMA (2) 2024: 97-111
