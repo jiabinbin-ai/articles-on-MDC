@@ -3,7 +3,7 @@ Multi-dimensional classification (MDC) assumes a number of class spaces to chara
 
 **Category**: Bayesian MDC; Classic MDC; Deep MDC; Evolutionary MDC; Semi-Supervised MDC; Extension; Application 
 
-**NOTE**: We also provide the personal homepages that contain publicly avaiable code packages.
+**NOTE**: We also provide the personal homepages that contain publicly available code packages.
 
  1. \[*Application*\] Thanaruk Theeramunkong, Verayuth Lertnattee: Multi-Dimensional Text Classification. COLING 2002
  2. \[*Application*\] Verayuth Lertnattee, Thanaruk Theeramunkong: Multidimensional text classification for drug information. IEEE Trans. Inf. Technol. Biomed. 8(3): 306-312 (2004)
