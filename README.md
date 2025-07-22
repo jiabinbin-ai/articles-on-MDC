@@ -1,5 +1,5 @@
 # The paper list on multi-dimensional classification
-Multi-dimensional classification (MDC) assumes a number of class spaces to characterize the object’s semantics from different dimensions. Here, an MDC example is associated with multiple class variables with each of them specifying its class membership w.r.t. one specific class space. On this page, we provide a categorized list of papers about MDC. Articles are categorized primarily based on their titles and technical details. If your article is missing or misclassified, please contact us for correction. 
+Multi-dimensional classification (MDC) assumes a number of class spaces to characterize the object’s semantics from different dimensions. Here, an MDC example is associated with multiple class variables with each of them specifying its class membership w.r.t. one specific class space. On this page, we provide a categorized list of papers about MDC. Articles are categorized primarily based on their titles and technical details. If your article is missing or misclassified, please [contact us](https://jiabinbin-ai.github.io/) for correction. 
 
 **Category**: Bayesian MDC; Classic MDC; Deep MDC; Evolutionary MDC; Semi-Supervised MDC; Extension; Application
 
