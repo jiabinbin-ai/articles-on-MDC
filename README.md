@@ -1,5 +1,5 @@
 # The paper list on multi-dimensional classification
-Multi-dimensional classification (MDC) assumes a number of class spaces to characterize the object’s semantics from different dimensions. Here, an MDC example is associated with multiple class variables with each of them specifying its class membership w.r.t. one specific class space. On this page, we provide a categorized list of papers about MDC. Articles are categorized primarily based on their titles and technical details. If your article is missing or misclassified, please contact us for correction. 
+Multi-dimensional classification (MDC) assumes a number of class spaces to characterize the object’s semantics from different dimensions. Here, an MDC example is associated with multiple class variables with each of them specifying its class membership w.r.t. one specific class space. On this page, we provide a categorized list of papers about MDC. Articles are categorized primarily based on their titles and technical details. If your article is missing or misclassified, please [contact us](https://jiabinbin-ai.github.io/) for correction. 
 
 **Category**: Bayesian MDC; Classic MDC; Deep MDC; Evolutionary MDC; Semi-Supervised MDC; Extension; Application
 
@@ -76,5 +76,8 @@ Multi-dimensional classification (MDC) assumes a number of class spaces to chara
  69. \[*Deep MDC*\] Yi Shi, Han-Jia Ye, Dongliang Man, Xiaoxu Han, De-Chuan Zhan, Yuan Jiang: Revisiting multi-dimensional classification from a dimension-wise perspective. Frontiers Comput. Sci. 19(1): 191304 (2025)
  70. \[*Extension*\] Xinye Wang, Lei Duan, Lili Guan, Jiaxuan Xu, Chengxin He: Learning Decision Boundaries for Multidimensional Anomaly Detection. IEEE Trans. Neural Networks Learn. Syst. 36(8): 15268-15281 (2025)
  71. \[*Evolutionary MDC*\] Yu-Yang Zhang, [Bin-Bin Jia](https://jiabinbin-ai.github.io/), [Min-Ling Zhang](http://palm.seu.edu.cn/zhangml/): Evolutionary Classifier Chain for Multi-Dimensional Classification. AAAI 2025: 22641-22649 [Matlab code](https://jiabinbin-ai.github.io/files/ECCO.rar)
- 72. \[*Application*\] Antonio Leandro Martins Candido, José Everardo Bessa  Maia: Multidimensional classification of posts for online course discussion forum curation. CoRR abs/2508.10008 (2025)
+ 72. \[*Deep MDC*\] [Teng Huang](https://tengingit.github.io/), [Bin-Bin Jia](https://jiabinbin-ai.github.io/), [Min-Ling Zhang](http://palm.seu.edu.cn/zhangml/): Towards Escaping from Class Dependency Modeling for Multi-Dimensional Classification. ICML 2025: [Python code](https://github.com/tengingit/DCOM-ICML-25)
+ 73. \[*Classic MDC*\] Zan Zhang, Yinan Yao, Jialu Yao: Multi-dimensional Classification Using Correlation Information. ICMLC 2025: 442-455
+ 74. \[*Application*\] Antonio Leandro Martins Candido, José Everardo Bessa  Maia: Multidimensional classification of posts for online course discussion forum curation. CoRR abs/2508.10008 (2025)
+ 75. \[*Classic MDC*\] [Zan Zhang](http://faculty.hfut.edu.cn/zhangzan/zh_CN/index.htm), Jialin Zhou, Jialu Yao, Lin Liu, Jiuyong Li, Lei Li, Xindong Wu: Learning label-specific features for multi-dimensional classification. Pattern Recognit. 172: 112365 (2026) [Matlab code](https://github.com/ZhangZan-source/LEAD)
 
